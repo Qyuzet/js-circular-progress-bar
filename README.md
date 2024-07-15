@@ -18,6 +18,9 @@ This repository contains a circular progress bar built with HTML, CSS, and JavaS
 [TRY NOW!](https://qyuzet.github.io/js-circular-progress-bar/)
 
 
+![image](https://github.com/user-attachments/assets/5c48e128-fe5f-47c8-84bc-5fbfea8d7ca2)
+
+
 ## Features
 
 - **Circular Progress Bar:** A visually appealing circular progress bar with gradient color.
