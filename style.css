@@ -43,7 +43,7 @@ body {
 }
 
 #number {
-  font-weight: 600px;
+  font-weight: 600;
   color: #555;
 }
 
@@ -52,7 +52,7 @@ circle {
   stroke: url(#GradientColor);
   stroke-width: 20px;
   stroke-dasharray: 472;
-  stroke-dashoffset: 0;
+  stroke-dashoffset: 472;
   animation: anim 2s linear forwards;
 }
 
@@ -64,5 +64,6 @@ svg {
 
 @keyframes anim {
   100% {
+    stroke-dashoffset: 165.2;
   }
 }
