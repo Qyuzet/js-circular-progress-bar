@@ -14,7 +14,7 @@
 
 ## Overview
 
-This repository contains a circular progress bar built with HTML, CSS, and JavaScript. The progress bar visually represents the progress of a task with a smooth animation effect.
+This repository contains a circular progress bar built with HTML, CSS, and JavaScript. The progress bar visually represents the progress of a task with a smooth animation effect...
 [TRY NOW!](https://qyuzet.github.io/js-circular-progress-bar/)
 
 
